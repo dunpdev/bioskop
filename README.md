@@ -1,0 +1,1 @@
+Ovo je nas prvi repo za vezbanje Git-a
